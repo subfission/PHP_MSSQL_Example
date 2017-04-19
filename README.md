@@ -1,2 +1,2 @@
-# PHP_MSSQL_Example
-Example for configuring PHP with php_odbc and FreeDTS for MS SQL
+# Linux PHP MSSQL Configuration Tester
+Use this to test your MSSQL/PHP/FreeDTS connection configuration
