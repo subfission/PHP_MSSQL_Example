@@ -1,7 +1,7 @@
 <?php
 /**	config_test.php
 
-    This file will test the configuration for Linux, FreeDTS, 
+    This file will test the configuration for Linux, FreeTDS, 
     MSSQL, & PHP. Change the values where appropriate.
 
     By: Zach Jetson
